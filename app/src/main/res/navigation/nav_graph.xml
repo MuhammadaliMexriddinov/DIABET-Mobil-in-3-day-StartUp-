@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/menuPage">
+
+
+    <fragment
+        android:id="@+id/thirdScreen"
+        android:name="uz.alpha.qandlidiabetstartup.presentation.ui.screen.pages.ThirdScreen"
+        android:label="ThirdScreen" />
+    <fragment
+        android:id="@+id/diabetScreen"
+        android:name="uz.alpha.qandlidiabetstartup.presentation.ui.screen.pages.DiabetScreen"
+        android:label="DiabetScreen" />
+    <fragment
+        android:id="@+id/findRiskScreen"
+        android:name="uz.alpha.qandlidiabetstartup.presentation.ui.screen.pages.FindRiskScreen"
+        android:label="FindRiskScreen" >
+
+    </fragment>
+    <fragment
+        android:id="@+id/menuPage"
+        android:name="uz.alpha.qandlidiabetstartup.presentation.ui.screen.MenuPage"
+        android:label="MenuPage" >
+        <action
+            android:id="@+id/action_menuPage_to_thirdScreen"
+            app:destination="@id/thirdScreen" />
+        <action
+            android:id="@+id/action_menuPage_to_diabetScreen"
+            app:destination="@id/diabetScreen" />
+        <action
+            android:id="@+id/action_menuPage_to_findRiskScreen"
+            app:destination="@id/findRiskScreen" />
+        <action
+            android:id="@+id/action_menuPage_to_informationScreen"
+            app:destination="@id/informationScreen" />
+        <action
+            android:id="@+id/action_menuPage_to_cachingScreen"
+            app:destination="@id/cachingScreen" />
+        <action
+            android:id="@+id/action_menuPage_to_othersPage"
+            app:destination="@id/othersPage" />
+    </fragment>
+    <fragment
+        android:id="@+id/informationScreen"
+        android:name="uz.alpha.qandlidiabetstartup.presentation.ui.screen.InformationScreen"
+        android:label="InformationScreen" />
+    <fragment
+        android:id="@+id/cachingScreen"
+        android:name="uz.alpha.qandlidiabetstartup.presentation.ui.screen.CachingScreen"
+        android:label="CachingScreen" />
+    <fragment
+        android:id="@+id/langScreen"
+        android:name="uz.alpha.qandlidiabetstartup.presentation.ui.screen.LangScreen"
+        android:label="LangScreen" />
+    <fragment
+        android:id="@+id/othersPage"
+        android:name="uz.alpha.qandlidiabetstartup.presentation.ui.screen.OthersPage"
+        android:label="OthersPage" >
+        <action
+            android:id="@+id/action_othersPage_to_langScreen"
+            app:destination="@id/langScreen" />
+        <action
+            android:id="@+id/action_othersPage_to_appInformationScreen"
+            app:destination="@id/appInformationScreen" />
+    </fragment>
+    <fragment
+        android:id="@+id/appInformationScreen"
+        android:name="uz.alpha.qandlidiabetstartup.presentation.ui.screen.AppInformationScreen"
+        android:label="AppInformationScreen" />
+
+</navigation>

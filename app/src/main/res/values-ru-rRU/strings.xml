@@ -1,0 +1,132 @@
+<resources>
+    <string name="app_name">DIABET AI</string>
+
+    <string name="main_1">Основной</string> -Главный
+    <string name="main_2">Язык</string>
+    <string name="main_3">О приложении</string>
+
+
+    <string name="male">Мужской</string>
+    <string name="female">Девушка</string> -Женский
+
+    <string name="yes">Есть</string>
+    <string name="no">Нет</string>
+
+    <string name="score">Результат</string>
+
+    <string name="main1">Ваш ген</string> - Ваш пол
+    <string name="main2">Ваш возраст</string>
+    <string name="main3">Полиурия</string>
+    <string name="main4">"Полидипсия"</string>
+    <string name="main5">"Внезапная потеря веса"</string>
+    <string name="main6">"Усталость"</string>
+    <string name="main7">"Полифагия"</string>
+    <string name="main8">"Затуманенное зрение"</string>
+    <string name="main9">"Зуд"</string>
+    <string name="main10">"нервничать"</string>
+    <string name="main11">"Медленное восстановление"</string>
+    <string name="main12">"Частичный парез"</string>
+    <string name="main13">"Мышечная слабость"</string>
+    <string name="main14">"Алопеция"</string>
+    <string name="main15">"Ожирение"</string>
+
+
+
+
+    <string name="alerter">Пожалуйста, введите информацию полностью</string>
+
+
+
+    <string name="foydalanish2">Этот тест не является полным медицинским диагнозом. Результаты предоставляются только для справки и не считаются диагнозом квалифицированного врача.</string>
+    <string name="foydalanish3">Безопасность ваших данных обеспечена. Предоставленная вами информация является анонимной и не будет передана третьим лицам.</string>
+    <string name="dialogUzbRuxsatBerish">Начать</string>
+
+    <string name="find3">"Твой вес"</string> - Ваш вес
+    <string name="find4">"Окружность живота (на уровне пупка, в сантиметрах)"</string>
+    <string name="find5">"Уделяете ли вы хотя бы 30 минут физической активности каждый день?"</string>
+    <string name="find6">"Вы едите овощи каждый день?"</string>
+    <string name="find7">"Вы когда-нибудь принимали или принимаете в настоящее время антигипертензивные (артериальное давление) препараты на регулярной основе?"</string>
+    <string name="find8">"У вас когда-нибудь диагностировали повышенный уровень глюкозы в крови (во время медицинского осмотра, во время болезни или во время беременности)?"</string>
+    <string name="find9">"Есть ли у вас диабет в семье или у родственников?"</string> - Есть ли у вас родственники с диабетом?
+
+    <string name="uz">Узбекский</string>
+    <string name="ru">Русский</string>
+
+
+
+    <string name="dialogUzb0">Приступая к тестированию, вы признаете и соглашаетесь со следующими условиями:</string>
+    <string name="dialogUzb2">Этот тест не является полностью диагностическим. Результаты предназначены только для информационных целей и не являются квалифицированным диагнозом.\nВаша информация надежно защищена. Предоставленная вами информация является анонимной и не будет передана третьим лицам.</string>
+    <string name="dialogUzb3">Безопасность ваших данных обеспечена. Предоставленная вами информация является анонимной и не будет передана третьим лицам.</string>
+
+    <string name="dialogUzbTitle">Условия эксплуатации</string>
+    <string name="dialogUzbYoq">отмена</string>
+    <string name="start">Начать</string>
+    <string name="start2">С предоставленной информацией ознакомился.</string>
+
+    <string name="diabetInfo">С предоставленной информацией ознакомился.</string>
+
+    <string name="drInfo">Диабетическая ретинопатия является ведущей причиной слепоты среди населения трудоспособного возраста в развитых странах мира. По разным данным, от этого заболевания страдают более 93 миллионов человек.
+
+По данным Центров по контролю и профилактике заболеваний США, 29,1 млн человек в США больны диабетом, а Всемирная организация здравоохранения сообщает, что 347 млн ​​человек во всем мире страдают этим заболеванием.
+
+Диабетическая ретинопатия (ДР) — заболевание глаз, связанное с длительно текущим диабетом. 40-45% американцев с диабетом страдают той или иной формой диабета. Раннее выявление ДР может помочь замедлить или предотвратить прогрессирующее поражение глаз. Но во многих случаях обнаружить его очень сложно, так как симптомы этого заболевания редко проявляются на ранних стадиях, а на поздних уже поздно применять эффективные меры лечения.
+
+В настоящее время диагностика ДР представляет собой очень ручной процесс, требующий от врача просмотра и оценки цифровых цветных изображений сосудов сетчатки. За это время результаты, отсроченные на два-три дня к моменту представления врачом заключения, приводят к потере контроля, непониманию и задержке лечения.
+
+Клиницисты диагностируют ДР по поражениям, связанным с сосудистыми аномалиями. Хотя этот метод эффективен, он требует много. Для этого не хватает необходимых знаний и оборудования в районах с большим населением диабетиков. По мере увеличения числа людей с диабетом возникает нехватка инфраструктуры, необходимой для предотвращения слепоты от ДР.
+
+Необходимость комплексного и автоматизированного подхода к скринингу DR давно признана, и предыдущие попытки добились значительного прогресса в этой области с использованием классификации изображений, распознавания изображений и машинного обучения. Используя цифровое изображение глазного дна в качестве входных данных, обнаружение может быть выполнено в автоматизированной системе, что приводит к созданию моделей с реалистичной клинической точки зрения.</string>
+    <string name="findriskInfo">"Bizning FINDRISC (The Finnish Diabetes Risk Score) nomli anonim Chat-botimizga xush kelibsiz! Ushbu Chat-bot Finlyandiya Diabet Assotsiyasi tomonidan tuzilgan va Yevropada ommalashgan diabet xavfini baholash shkalasi asosida ishlab chiqildi. Ushbu shkala aksariyat Yevropa tillarida mavjud bo'lib, 85% aniqlik bilan 2-turdagi qandli diabet (QD)ning 10 yillik xavfini, shu jumladan simptomsiz QD va glyukoza ochligiga chidamsizlik (GOCh) xavfini baholash imkonini beradi. Ushbu shkala 25 yoshdan kattalar uchun qo'llaniladi. Bir nechta savollarga javob berib, siz qandli diabet xavfini ko'rsatuvchi natijani bilishingiz va ushbu natijaga muvofiq amalga oshirish kerak bo'lgan tavsiyalarni olishingiz mumkin bo'ladi."</string>
+
+    <string name="account">Аккаунт</string>
+    <string name="change_account_name">Изменить имя aккаунт</string>
+    <string name="change_image">Изменить изображениe aккаунт</string>
+    <string name="help"><![CDATA[Help & Feedback]]></string>
+    <string name="support_us">Поддержать</string>
+    <string name="infooo">О приложении</string>
+    <string name="about_us">About US</string>
+    <string name="contact_us"><![CDATA[Contact & Feedback]]></string>
+    <string name="name">имя</string>
+    <string name="save">сохранить</string>
+    <string name="share">Поделится</string>
+    <string name="language">Выберите язык</string>
+    <string name="cancel">отмена</string>
+    <string name="main">Главная страница</string>
+
+    <string name="delete1">"Вы хотите удалить информацию?"</string>
+    <string name="delete2">"ДА"</string>
+    <string name="delete3">"НЕТ"</string>
+
+
+    <string name="d1">Ваш результат</string>
+    <string name="d2">" Если у вас высокий риск развития сахарного диабета, проконсультируйтесь с врачом"</string>
+    <string name="d5">"Низкий риск диабета!"</string>
+
+    <string name="starttxt1">"!!!"</string>
+    <string name="starttxt2">"!!!"</string>
+    <string name="starttxt3">"!!!"</string>
+
+    <string name="dryes">✅Ретинопатия не обнаружена!</string>
+    <string name="drno">☹️Обнаружена ретинопатия!!</string>
+    <string name="dr">Диабетическая ретинопатия</string>
+    <string name="dr_low">✅Обнаружено наличие легкой ретинопатии!</string>
+    <string name="dr_high">☹️Обнаружено наличие тяжелой ретинопатии!</string>
+    <string name="dr_medium">✅Обнаружено наличие средней ретинопатии!</string>
+
+    <string name="find_1">Ваш риск развития сахарного диабета 2-го типа в течение ближайших 10 лет низкий!</string>
+    <string name="find_2">Риск развития сахарного диабета 2 типа ПОВЫШЕН НЕЗНАЧИТЕЛЬНО!</string>
+    <string name="find_3">Риск развития сахарного диабета 2 типа УМЕРЕННЫЙ!</string>
+    <string name="find_4">Риск развития сахарного диабета 2 типа ВЫСОКИЙ!</string>
+    <string name="find_5">Риск развития СД 2 типа ОЧЕНЬ ВЫСОКИЙ!</string>
+
+    <string name="data1">Сохраненные данные</string>
+    <string name="data2">Диабет</string>
+    <string name="data3">Информация</string>
+    <string name="data5">Картинка, которую вы отправляете</string> - фотографию, которую вы отправляете
+    <string name="data6">Картина</string> - Изображение
+    <string name="data7">Отправка</string> - отправить
+    <string name="information">Дополнительная информация</string>
+    <string name="follow">Следите за нами</string>
+    <string name="data4">"Загрузите изображение глазного дна в приложение через камеру глазного дна. Загрузите изображение, как показано в примере, иначе он вернет неверный результат."</string>
+
+</resources>

@@ -1,0 +1,132 @@
+<resources>
+    <string name="app_name">DIABET AI</string>
+
+    <string name="main_1">Asosiy</string>
+    <string name="main_2">Til</string>
+    <string name="main_3">Ilova haqida</string>
+    <string name="information">Qo`shimcha ma`lumot</string>
+
+
+    <string name="male">Erkak</string>
+    <string name="female">Ayol</string>
+
+    <string name="yes">Bor</string>
+    <string name="no">Yo`q</string>
+
+    <string name="score">Natija</string>
+
+    <string name="main1">Jins</string>
+    <string name="main2">Yoshingiz</string>
+    <string name="main3">Poliuriya</string>
+    <string name="main4">"Polidipsiya"</string>
+    <string name="main5">"To`satdan  vazn yo`qotish"</string>
+    <string name="main6">"Holsizlik"</string>
+    <string name="main7">"Polifagiya"</string>
+    <string name="main8">"Ko`rish xiraligi"</string>
+    <string name="main9">"Qichishish"</string>
+    <string name="main10">"Asabiylashish"</string>
+    <string name="main11">"Sekin sog`ayish"</string>
+    <string name="main12">"Qisman parez"</string>
+    <string name="main13">"Mushaklar kuchsizligi"</string>
+    <string name="main14">"Alopetsiya"</string>
+    <string name="main15">"Semirish"</string>
+
+
+
+
+    <string name="alerter">Iltimos ma`lumotlarni to` liq kiriting</string>
+
+
+    <string name="delete1">"Ma`lumotni o`chirmoqchimisiz ?"</string>
+    <string name="delete2">"HA"</string>
+    <string name="delete3">"YO`Q"</string>
+
+
+    <string name="foydalanish2">Ushbu test  toliq tibbiy diagnostika hisoblanmaydi. Natijalar faqat malumot uchun taqdim etiladi va ular malakali shifokor tashxisi hisoblanmaydi.</string>
+    <string name="foydalanish3">Malumotlaringiz xavfsizligi taminlanadi. Siz berayotgan malumotlar anonim va ular uchinchi shaxslarga taqdim etilmaydi.</string>
+    <string name="dialogUzbRuxsatBerish">Boshlash</string>
+
+    <string name="find3">"Vazningiz"</string>
+    <string name="find4">"Qorningizning aylana uzunligi (kindik darajasi atrofida, santimetrda)"</string>
+    <string name="find5">"Har kuni kamida 30 daqiqalik jismoniy mashg'ulot bilan shug'ullanasizmi?"</string>
+    <string name="find6">"Har kuni sabzavotlar iste'mol qilasizmi?"</string>
+    <string name="find7">"Avval yoki hozir antigipertenziv (qon bosimi uchun) dori vostalarini doimiy tarzda qabul qilganmisiz?"</string>
+    <string name="find8">"Sizda biror marta (biror tibbiy ko'rikda, kasallik paytida, yoki homila vaqtida) qoningizda glyukoza miqdori oshib ketganligi aniqlanganmi?"</string>
+    <string name="find9">"Oila a'zolaringiz yoki qarindoshlaringiz orasida qandli diabetga chalinganlar bormi?"</string>
+
+    <string name="uz">O`zbekcha</string>
+    <string name="ru">Ruscha</string>
+
+
+
+    <string name="dialogUzb0">Testni boshlashingiz quyidagi shartlarni  inobatga olishingizni va roziligingizni bildiradi:</string>
+    <string name="dialogUzb2">Ushbu test to`liq diagnostika hisoblanmaydi.Natijalar faqat ma`lumot berish uchun  mo`ljallangan va ular malakali tashxis emas.\nMa`lumotlaringiz xavfsizligi ta`minlanadi. Siz berayotgan ma`lumotlar  anonim va ular uchinchi shaxslarga taqdim etilmaydi.</string>
+    <string name="dialogUzb3">Ma`lumotlaringiz xavfsizligi ta`minlanadi. Siz berayotgan ma`lumotlar  anonim va ular uchinchi shaxslarga taqdim etilmaydi.</string>
+
+
+    <string name="dialogUzbTitle">Foydalanish shartlari</string>
+    <string name="dialogUzbYoq">Bekor</string>
+    <string name="start">Boshlash</string>
+    <string name="start2">Berilgan ma`lumot bilan tanishib chiqdim.</string>
+    <string name="main">Asosiy sahifa</string>
+
+
+    <string name="diabetInfo">Berilgan ma`lumot bilan tanishib chiqdim.</string>
+
+    <string name="drInfo">Diabetik retinopatiya - bu dunyoning rivojlangan mamlakatlarida mehnatga layoqatli yoshdagi aholi orasida ko‘z ojizligining asosiy sababidir. Turli manbalarga ko‘ra, bu kasallikdan 93 milliondan ortiq kishi aziyat chekadi.
+
+AQSh kasalliklar profilaktikasi va nazorati markazining ma’lumotlariga ko‘ra, AQShda 29,1 million kishi diabetga chalingan, Jahon Sog‘liqni Saqlash Tashkiloti esa butun dunyoda bu kasallikdan 347 million kishi aziyat chekishini ma’lum qiladi.
+
+Diabetik retinopatiya (DR) - bu qandli diabet kasalligining ko‘p vaqt davom etishi bilan bog‘liq bo‘lgan ko‘z kasalligi. Diabetga chalingan amerikaliklarning 40-45% qismi qandli diabetning ma’lum bosqichini boshdan kechirmoqda. DRni vaqtida aniqlash ko‘zning borgan sari ojizlashib borishini sekinlashtirishga yoki oldini olishga yordam berishi mumkin. Ammo ko‘p xollarda uni aniqlash juda qiyin bo‘ladi, chunki bu kasallikning simptomlari ilk bosqichlarda juda kam namoyon bo‘ladi, keyingi bosqichlarda esa samarali davo choralarini qo‘llashga juda kech bo‘ladi.
+
+Hozirgi vaqtda DRni aniqlash - bu qo‘lda bajariladigan juda mehnattalab jarayon bo‘lib, shifokordan ko‘z tubi tomirlarining raqamli rangli rasmlarini o‘rganib chiqish va baholash talab qilinadi. Bu vaqt ichida esa, shifokor xulosasini taqdim etgan paytga kelib, ikki yoki uch kunga kechiktirilgan natijalar nazoratning yo‘qolishiga, tushunmovchilikka va davo choralarining kechikishiga olib keladi.
+
+Klinik shifokorlar DRni tomirlardagi anomaliyalar bilan bog‘liq zararlar orqali aniqlashadi. Bu usul samarali bo‘lsa-da, u ko‘p narsa talab qiladi. Buning uchun  aholi orasida diabetga chalinganlar ko‘p bo‘lgan hududlarda lozim bo‘lgan bilim va qurilmalar yetishmovchiligi mavjud. Diabetga chalinayotgan odamlar soni ko‘payib borarkan, DR oqibatida ko‘z ojizligining oldini olish uchun kerak bo‘ladigangan infratuzilma defitsiti yuzaga keladi.
+
+DR skriningining barchasini qamrab olgan va avtomatlashtirilgan usuliga muhtojlik borligi allaqachon tan olingan, va avvalgi urinishlar bu borada tasvirlarni tasniflash, tasvirni anglash va mashinaviy o‘qitish yordamida katta o‘sishga olib keldi. Ko‘z tubining raqamli rasmini kirish ma’lumotlari sifatida foydalangan xolda, aniqlashning avtomatlashtirilgan tizimgacha olib borish mumkin, va bu mukammallikda realistik klinik istiqbolga ega bo‘lgan modellarni yaratishga olib keladi.</string>
+    <string name="findriskInfo">"Bizning FINDRISC (The Finnish Diabetes Risk Score) nomli anonim Chat-botimizga xush kelibsiz! Ushbu Chat-bot Finlyandiya Diabet Assotsiyasi tomonidan tuzilgan va Yevropada ommalashgan diabet xavfini baholash shkalasi asosida ishlab chiqildi. Ushbu shkala aksariyat Yevropa tillarida mavjud bo'lib, 85% aniqlik bilan 2-turdagi qandli diabet (QD)ning 10 yillik xavfini, shu jumladan simptomsiz QD va glyukoza ochligiga chidamsizlik (GOCh) xavfini baholash imkonini beradi. Ushbu shkala 25 yoshdan kattalar uchun qo'llaniladi. Bir nechta savollarga javob berib, siz qandli diabet xavfini ko'rsatuvchi natijani bilishingiz va ushbu natijaga muvofiq amalga oshirish kerak bo'lgan tavsiyalarni olishingiz mumkin bo'ladi."</string>
+
+    <string name="account">Akkount</string>
+    <string name="infooo">Ilova haqida</string>
+    <string name="change_account_name">Akkount nomini o`zgartirish</string>
+    <string name="change_image">Akkount rasmini o`zgartirish</string>
+    <string name="help"><![CDATA[Help & Feedback]]></string>
+    <string name="support_us">Qo`llab-quvvatlash</string>
+    <string name="about_us">About US</string>
+    <string name="contact_us">Feedback</string>
+    <string name="name">Ism</string>
+    <string name="save">saqlash</string>
+    <string name="share">Ulashish</string>
+    <string name="language">Tilni tanlang</string>
+    <string name="cancel">Orqaga</string>
+
+    <string name="d1">Sizning natijangiz</string>
+    <string name="d2">"Diabet rivojlanish xavfi yuqori, iltimos, shifokoringizga murojaat qiling"</string>
+    <string name="d5">"Diabet xavfi past!"</string>
+
+    <string name="starttxt1">"!!!"</string>
+    <string name="starttxt2">"!!!"</string>
+    <string name="starttxt3">"!!!"</string>
+
+    <string name="dryes">✅Retinopatiya aniqlanmadi!</string>
+    <string name="drno">☹️Retinopatiya aniqlandi!</string>
+    <string name="dr">Diabetik Retinopatiya</string>
+    <string name="dr_low">✅Yengil darajadagi retinopatiya aniqlandi!</string>
+    <string name="dr_high">☹️Og‘ir darajadagi retinopatiya aniqlandi!</string>
+    <string name="dr_medium">✅O‘rta darajadagi retinopatiya aniqlandi!</string>
+
+    <string name="find_1">Keyingi 10 yil ichida 2-toifa diabet rivojlanish xavfi past!</string>
+    <string name="find_2">2-toifa qandli diabetning rivojlanish xavfi bir oz ortdi!</string>
+    <string name="find_3">"2-toifa qandli diabetning rivojlanish xavfi o'rtacha!"</string>
+    <string name="find_4">2-toifa diabet rivojlanish xavfi YUQORI!</string>
+    <string name="find_5">2-toifa diabet rivojlanish xavfi JUDA YUQORI!</string>
+
+    <string name="data1">Saqlangan ma`lumotlar</string>
+    <string name="data2">Diabet</string>
+    <string name="data3">Ma`lumotlar</string>
+    <string name="data5">Siz jo`natayotgan rasm</string>
+    <string name="data6">Rasm</string>
+    <string name="data7">Yuborish</string>
+    <string name="follow">Bizni kuzating</string>
+    <string name="data4">"Fundus kamera orqali ko'z tubi rasmni ilovaga yuklang. Rasmni huddi na'munadagidek yuklang aks holda notogri natija chiqaradi."</string>
+</resources>
